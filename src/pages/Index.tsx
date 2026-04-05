@@ -11,7 +11,17 @@ const CAT_RESPONSES = [
   { face: "😿", text: "I'll learn to cook for you... 🍳", sub: "— promising kitty" },
   { face: "🐱", text: "I'll watch any movie you want! 🎬", sub: "— negotiating kitty" },
   { face: "😭", text: "Even my 9 lives aren't enough without you!", sub: "— poetic kitty" },
-  { face: "🥺", text: "Last chance... pretty please? 🌸", sub: "— begging kitty" },
+  { face: "🥺", text: "I'll write you love poems every day! 📝", sub: "— romantic kitty" },
+  { face: "😿", text: "I already told my mom about you...", sub: "— committed kitty" },
+  { face: "🙀", text: "I practiced saying 'I love you' 100 times!", sub: "— dedicated kitty" },
+  { face: "😭", text: "My heart is literally in pieces right now 💔", sub: "— shattered kitty" },
+  { face: "🐱", text: "I'll share my favorite fish with you! 🐟", sub: "— generous kitty" },
+  { face: "😾", text: "I'll hold your purse in public. No shame!", sub: "— brave kitty" },
+  { face: "🥺", text: "I'll let you pick where we eat. ALWAYS.", sub: "— sacrificial kitty" },
+  { face: "😿", text: "I've been refreshing your texts for hours...", sub: "— anxious kitty" },
+  { face: "🐱", text: "I'll carry you when your feet hurt! 💪", sub: "— strong kitty" },
+  { face: "😭", text: "My friends are all watching... don't embarrass me!", sub: "— nervous kitty" },
+  { face: "🥺", text: "Last chance... pretty please with a cherry on top? 🍒", sub: "— begging kitty" },
 ];
 
 const FLOATING_HEARTS = Array.from({ length: 12 }, (_, i) => ({
